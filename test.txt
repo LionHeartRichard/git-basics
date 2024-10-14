@@ -1,9 +1,0 @@
-Learning git and GitHub
-
-fork
-
-clone
-
-remote
-
-so...
